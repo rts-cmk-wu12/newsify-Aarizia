@@ -43,6 +43,9 @@ Ud over det har jeg brugt kode som Henrik har gennemgået i undervisningen og ti
 ### Argumentation for de valg du selvstændigt har truffet under løsningen af opgaven
 
 Jeg har brugt transform og transition for at lave animationer fordi det var det jeg kendte lidt til i forvejen.
+Jeg har ændret i designet to steder:
+-	Jeg har valgt at omdøbe kategorien Europe til Foreign. Det har jeg gjort ud fra hvilke kategorier der var til rådighed i New York Times api'et, som ikke havde europa. Jeg har valgt den kategori, jeg synes kom tættest på.
+-	Jeg har ændret knapperne på settings siden til at være 'checked' og grønne, når circlen står til venstre i stedet for når circlen står til højre. Det er fordi det som regel er sådan det ser ud i den virkelige verden.
 
 ---
 ### Vurdering af egen indsats & gennemførelse af opgaveforløbet (Arbejdsgangen)
