@@ -8,7 +8,7 @@
 
 **Uddannelsessted:** Roskilde Tekniske Skole
 
-[Link til min applikaton](http://example.com/)
+[Link til min applikaton](https://rts-cmk-wu12.github.io/newsify-Aarizia/)
 
 
 ## Teknologier
