@@ -27,7 +27,7 @@ async function generateCategories(array) {
         const summaryHeadingContainer = document.createElement('div');
         summaryHeadingContainer.classList.add('summary__heading-container');
         const summaryLogoElement = document.createElement('img');
-        summaryLogoElement.src = './images/logo-white-small.png';
+        summaryLogoElement.src = './docs/images/logo-white-small.png';
         summaryLogoElement.classList.add('summary__logo');
         const summaryHeadingElement = document.createElement('h2');
         summaryHeadingElement.textContent = categoryName;
