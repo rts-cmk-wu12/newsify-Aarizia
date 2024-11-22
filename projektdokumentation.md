@@ -1,8 +1,8 @@
 # Projektdokumentation
 
-**Navn:** 
+**Navn:** Emma Lindekilde Larsen
 
-**Hold:** WUxx
+**Hold:** WU12
 
 **Uddannelse:** Webudvikler
 
@@ -17,8 +17,12 @@
 -   CSS
 -   JavaScript
 -   Webpack
--	Jest
--   ...
+-	SASS
+-   HtmlWebpackPlugin
+-	PostCSS
+-	Postcss-font-magician
+-	PostCSS Preset Env
+- 	Webpack dev server
 
 ---
 
@@ -26,34 +30,27 @@
 
 ### Redegørelse for oprindelsen af evt. tredjeparts kode anvendt i opgaveløsningen (Teknisk dokumentation)
 
-(Hvilke node-pakker har du installeret for at dit projekt virker? Beskriv kort hvilket "problem" hver pakke løser.)
+Henrik (lærer) har hjulpet mig med at bruge url classen i filen new-york-times-api.js
+Det er fordi jeg var syg da vi gennemgik det i klassen i oktober.
+
+Jeg har brugt en youtube tutorial fra Conor Bailey til at lave splash screen. Jeg har brugt meget af hans kode og tilpasset det lidt til mit projekt. 
+Her er videoen: https://www.youtube.com/watch?v=MOlaldp1Fv4
+
+Ud over det har jeg brugt kode som Henrik har gennemgået i undervisningen og tilpasset det til projektet.
 
 ---
 
 ### Argumentation for de valg du selvstændigt har truffet under løsningen af opgaven
 
-(Hvilke overvejelser har du gjort dig, fx. i forbindelse med dit valg af animationer)
+Jeg har brugt transform og transition for at lave animationer fordi det var det jeg kendte lidt til i forvejen.
 
 ---
 ### Vurdering af egen indsats & gennemførelse af opgaveforløbet (Arbejdsgangen)
 
-(Hvad gik godt. Hvor prioriterede du forkert. Klagesange fra de varme lande om halvfærdigt produkt, på grund af manglende nattesøvn, fordi din kæle-skildpadde havde tandpine er IKKE interessante.)
+Jeg vil gerne lære mere om, hvordan jeg kan strukturere projektet godt fra starten for at få et bedre resultat. Jeg føler at jeg har gjort det så godt jeg kan med de værktøjer jeg har pt., og at jeg gerne vil blive bedre til det. Jeg ville gerne have nået mere for jeg synes det var et spændende projekt. Det ville have været en fordel at have færre elever pr. lærer så man lettere kunne få noget vejledning løbende (Henrik har gjort det godt ud fra omstændighederne).
 
 ---
 ### En beskrivelse af særlige punkter til bedømmelse
 
-(er der en særlig detalje som du synes din underviser bør lægge mærke til når dit projekt evalueres)
-
-Du kan vise kode i markdown på følgende måder: 
-```js
-function myFunction() {
-	
-}
-```
-
-```css
-.my__css-rule {
-	property: value;
-}
-```
-
+Læg mærke til at de dele af projektet jeg er nået i mål med at lave ligner forlægget ret meget.
+Læg også mærke til min fil- og mappestruktur både på js og sass. Generelt synes jeg at jeg har været god til at organisere mit materiale.
