@@ -1,0 +1,17 @@
+@use '../variables';
+
+.header__link {
+    font-family: variables.$font-family-accent;
+    display: flex;
+    gap: 0.7rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    font-weight: 900;
+    padding-block-end: 0.5rem;
+}
+
+.header__logo {
+    height: 3rem;
+    width: auto;
+}

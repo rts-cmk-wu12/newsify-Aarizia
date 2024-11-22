@@ -1,0 +1,25 @@
+@use '../variables';
+
+.main__input-container {
+    width: 87.5%;
+    margin: 0 auto;
+    margin-block-end: 1.5rem;
+}
+
+.main__input {
+    width: 100%;
+    padding: 1rem 0.8rem;
+    border-radius: 0.25rem;
+    display: flex;
+    justify-content: center;
+
+    border: none;
+    font-family: variables.$font-family-primary;
+    background-color: variables.$lightmode-color-input-background;
+
+    &::placeholder {
+        color: variables.$lightmode-color-input-text;
+        font-family: variables.$font-family-primary;
+    }
+}
+

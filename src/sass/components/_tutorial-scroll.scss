@@ -1,0 +1,45 @@
+@use '../variables';
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.tutorial__pages-container {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    background-color: variables.$lightmode-color-light;
+    color: variables.$lightmode-color-dark;
+}
+
+.tutorial__page-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-block: 2rem 1rem;
+    padding-inline: 1rem;
+    flex-shrink: 0;
+}
+
+.tutorial__image {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.tutorial__heading {
+    font-family: variables.$font-family-accent;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.tutorial__text {
+    font-family: variables.$font-family-primary;
+    font-size: 1.125rem;
+    text-align: center;
+}
