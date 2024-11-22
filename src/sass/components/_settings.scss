@@ -1,0 +1,79 @@
+@use '../variables';
+
+.main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: variables.$lightmode-color-light;
+}
+
+.settings__subheading {
+    font-family: variables.$font-family-primary;
+    font-size: 2rem;
+    color: variables.$color-accent;
+    text-align: center;
+}
+
+.settings__text {
+    font-family: variables.$font-family-primary;
+    font-size: 1.25rem;
+    color: variables.$lightmode-color-dark;
+    font-weight: 500;
+}
+
+.settings__categories-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.settings__checkbox-label {
+    width: 3.625rem;
+    aspect-ratio: 1.8;
+    background-color: variables.$lightmode-color-checkbox-off;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    transition: background-color 1s;
+}
+
+.settings__checkbox-circle {
+    height: 1.75rem;
+    aspect-ratio: 1;
+    background-color: variables.$lightmode-color-light;
+    border-radius: 100%;
+    margin-inline-start: 2px;
+    transition: all 1s;
+}
+
+.settings__checkbox-label:has(.settings__checkbox-input:checked) {
+    background-color: variables.$color-accent;
+    transition: transform 1s;
+    transition: background-color 1s;
+}
+
+.settings__checkbox-label:has(.settings__checkbox-input:checked) > .settings__checkbox-circle {
+    transform: translateX(26px);
+}
+
+.settings__checkbox-input {
+    display: none;
+}
+
+.settings__button {
+    width: 90%;
+    background-color: variables.$lightmode-color-light;
+    color: variables.$color-accent;
+    border: 1px solid variables.$color-accent;
+    border-radius: 5rem;
+    font-size: 1.125rem;
+    font-weight: 500;
+    padding-block: 1rem;
+}
+
+.settings__text-version {
+    color: variables.$darkmode-color-small-text;
+    padding-block-end: 0.5rem;
+}

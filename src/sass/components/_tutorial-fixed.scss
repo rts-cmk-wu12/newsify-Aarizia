@@ -1,0 +1,63 @@
+@use '../variables';
+
+.tutorial__scrollbar {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.tutorial__label {
+    width: 1rem;
+    aspect-ratio: 1;
+    border-radius: 100%;
+    background-color: variables.$color-medium;
+}
+
+.tutorial__label:has(.tutorial__radio:checked) {
+    margin: 0 1.5rem;
+}
+
+.tutorial__label:has(.tutorial__radio:checked)::after {
+    content: '';
+    display: block;
+    width: 4rem;
+    height: 100%;
+    background-color: variables.$color-accent;
+    border-radius: 1rem;
+    transform: translateX(-1.5rem);
+}
+
+.tutorial__radio {
+    display: none;
+}
+
+.tutorial__button-container {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin: 0 1rem;
+}
+
+.tutorial__button {
+    text-align: center;
+    padding: 1rem 3rem;
+    border: 2px solid;
+    color: variables.$color-accent;
+    border-radius: 10rem;
+    width: 100%;
+    font-family: variables.$font-family-primary;
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.tutorial__link-skip {
+    background-color: variables.$lightmode-color-light;
+    color: variables.$color-accent;
+    border: 1px solid variables.$color-accent;
+}
+
+.tutorial__button-next {
+    background-color: variables.$color-accent;
+    color: variables.$lightmode-color-light;
+    border: none;
+} 

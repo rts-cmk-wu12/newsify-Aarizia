@@ -1,0 +1,36 @@
+@use '../variables';
+
+@media (max-width: 30rem) {
+
+    .wrapper {
+        display: grid;
+        grid-template-areas:
+            'header'
+            'main'
+            'footer'
+        ;
+        height: 100vh;
+        grid-template-rows: auto 1fr auto;
+        padding-block-start: 1rem;
+    
+        background-color: variables.$lightmode-color-light;
+        color: variables.$lightmode-color-dark;
+    }
+
+    .header {
+        grid-area: header;
+    }
+
+    .main {
+        grid-area: main;
+        overflow: scroll;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .footer {
+        grid-area: footer;
+    }
+
+}

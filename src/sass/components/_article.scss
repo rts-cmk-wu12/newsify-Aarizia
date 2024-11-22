@@ -1,0 +1,70 @@
+@use '../variables';
+
+.summary, .settings__category {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    color: variables.$lightmode-color-dark;
+    align-items: center;
+    border-block: 1px solid variables.$color-medium;
+}
+
+.categories__container {
+    position: relative;
+}
+
+.details[open] .summary {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: variables.$lightmode-color-light;
+    /*transition: transform 1s;*/
+}
+
+.details[open] .summary__icon {
+    transform: rotate(0.25turn);
+    transition: all 0.5s;
+}
+
+.summary__heading-container, .settings__heading-container {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    font-family: variables.$font-family-accent;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+.summary__icon {
+    height: 1.5rem;
+    aspect-ratio: 1;
+    transition: all 0.5s;
+}
+
+.article__article {
+    display: flex;
+    color: variables.$lightmode-color-dark;
+    gap: 1.5rem;
+    align-items: center;
+    border-block: 1px solid variables.$color-medium;
+    padding: 1rem 1.5rem;
+}
+
+.article__image {
+    height: 4.5rem;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.article__heading {
+    font-family: variables.$font-family-accent;
+    font-size: 1rem;
+}
+
+.article__text {
+    font-family: variables.$font-family-primary;
+    font-size: 0.875rem;
+}
+
+
+
