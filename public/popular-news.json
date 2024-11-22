@@ -1,0 +1,1316 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+      {
+        "uri": "nyt://article/740b1753-f108-57a9-9097-c9039a4db173",
+        "url": "https://www.nytimes.com/2024/11/16/opinion/donald-trump-election-new-era.html",
+        "id": 100000009823396,
+        "asset_id": 100000009823396,
+        "source": "New York Times",
+        "published_date": "2024-11-16",
+        "updated": "2024-11-17 12:39:22",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Presidential Election of 2024;United States Politics and Government;United States International Relations;Computers and the Internet;Social Media;Fringe Groups and Movements;Right-Wing Extremism and Alt-Right;Rumors and Misinformation;Liberalism (US Politics);Conservatism (US Politics);Authoritarianism (Theory and Philosophy);Democracy (Theory and Philosophy);Social Conditions and Trends;Trump, Donald J",
+        "column": null,
+        "byline": "By Ross Douthat",
+        "type": "Article",
+        "title": "Trump Has Put an End to an Era. The Future Is Up for Grabs.",
+        "abstract": "The post-Cold War era has ended, and we’re not going back.",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "United States Politics and Government",
+          "United States International Relations",
+          "Computers and the Internet",
+          "Social Media",
+          "Fringe Groups and Movements",
+          "Right-Wing Extremism and Alt-Right",
+          "Rumors and Misinformation",
+          "Liberalism (US Politics)",
+          "Conservatism (US Politics)",
+          "Authoritarianism (Theory and Philosophy)",
+          "Democracy (Theory and Philosophy)",
+          "Social Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Jamie Chung for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/opinion/17SOCover/17SOCover-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/opinion/17SOCover/17SOCover-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/opinion/17SOCover/17SOCover-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/cf7e3e55-9cd1-517d-bd2f-0dd82ac7804e",
+        "url": "https://www.nytimes.com/2024/11/17/us/politics/biden-ukraine-russia-atacms-missiles.html",
+        "id": 100000009828394,
+        "asset_id": 100000009828394,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-18 01:23:36",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "United States International Relations;Missiles and Missile Defense Systems;Defense and Military Forces;United States Politics and Government;Russian Invasion of Ukraine (2022);Biden, Joseph R Jr;Putin, Vladimir V;Trump, Donald J;Zelensky, Volodymyr;Defense Department;United States Army;Ukraine;Kursk (Russia)",
+        "column": null,
+        "byline": "By Adam Entous, Eric Schmitt and Julian E. Barnes",
+        "type": "Article",
+        "title": "Biden Allows Ukraine to Strike Russia With Long-Range U.S. Missiles",
+        "abstract": "With two months left in office, the president for the first time authorized the Ukrainian military to use the system known as ATACMS to help defend its forces in the Kursk region of Russia.",
+        "des_facet": [
+          "United States International Relations",
+          "Missiles and Missile Defense Systems",
+          "Defense and Military Forces",
+          "United States Politics and Government",
+          "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+          "Defense Department",
+          "United States Army"
+        ],
+        "per_facet": [
+          "Biden, Joseph R Jr",
+          "Putin, Vladimir V",
+          "Trump, Donald J",
+          "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+          "Ukraine",
+          "Kursk (Russia)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A residential building in Luhansk, in Russian-controlled Ukraine, that was damaged in June by U.S.-supplied ATACMS missiles, according to the Russian Defense Ministry. Mr. Biden’s latest authorization allows Ukraine to strike inside Russia.",
+            "copyright": "Alexander Ermochenko/Reuters",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/18/multimedia/17dc-ukraine-weapons-swap/17xp-hp-swap-ukraine-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/18/multimedia/17dc-ukraine-weapons-swap/17xp-hp-swap-ukraine-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/18/multimedia/17dc-ukraine-weapons-swap/17xp-hp-swap-ukraine-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/c2863bcc-d18f-5793-b4f3-3212603d4905",
+        "url": "https://www.nytimes.com/2024/11/17/well/carrots-ecoli-outbreak.html",
+        "id": 100000009830334,
+        "asset_id": 100000009830334,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 16:37:05",
+        "section": "Well",
+        "subsection": "",
+        "nytdsection": "well",
+        "adx_keywords": "Food Contamination and Poisoning;E Coli (Bacteria);Carrots;Organic Foods and Products;Recalls and Bans of Products;Deaths (Fatalities);Agriculture and Farming;Centers for Disease Control and Prevention;Grimmway Farms;Bakersfield (Calif)",
+        "column": null,
+        "byline": "By Johnny Diaz",
+        "type": "Article",
+        "title": "1 Dead and Dozens Ill in E. Coli Outbreak Linked to Organic Carrots",
+        "abstract": "The outbreak, which has sickened nearly 40 people, has been tied to multiple brands of recalled organic carrots sold by Grimmway Farms, officials said.",
+        "des_facet": [
+          "Food Contamination and Poisoning",
+          "E Coli (Bacteria)",
+          "Carrots",
+          "Organic Foods and Products",
+          "Recalls and Bans of Products",
+          "Deaths (Fatalities)",
+          "Agriculture and Farming"
+        ],
+        "org_facet": [
+          "Centers for Disease Control and Prevention",
+          "Grimmway Farms"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Bakersfield (Calif)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Workers sort carrots at Grimmway Farms in Bakersfield, Calif., in 2003. Organic carrots sold by the company have been linked to an outbreak of E. coli. ",
+            "copyright": "Kim Komenich/The San Francisco Chronicle",
+            "approved_for_syndication": 0,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17xp-carrots-jjtr/17xp-carrots-jjtr-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17xp-carrots-jjtr/17xp-carrots-jjtr-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17xp-carrots-jjtr/17xp-carrots-jjtr-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/b30e9290-c795-5d91-ad56-8dc4cb4d32c3",
+        "url": "https://www.nytimes.com/2024/11/17/us/politics/harris-campaign-finances.html",
+        "id": 100000009828081,
+        "asset_id": 100000009828081,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 23:27:52",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Presidential Election of 2024;Campaign Finance;internal-paywall-exempt-elections-app;Harris, Kamala D;Winfrey, Oprah;Trump, Donald J",
+        "column": null,
+        "byline": "By Shane Goldmacher",
+        "type": "Article",
+        "title": "How Kamala Harris Burned Through $1.5 Billion in 15 Weeks",
+        "abstract": "Her frenzied spending has led to second-guessing among some Democrats and questions as she has pressed for more cash since the election.",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "Campaign Finance",
+          "internal-paywall-exempt-elections-app"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Harris, Kamala D",
+          "Winfrey, Oprah",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Vice President Kamala Harris at her final rally before the election, in Philadelphia on Nov. 4. Her campaign averaged roughly $100 million in weekly spending.",
+            "copyright": "Erin Schaff/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/multimedia/00pol-harris-money-topart-hlzv/00pol-harris-money-topart-hlzv-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/multimedia/00pol-harris-money-topart-hlzv/00pol-harris-money-topart-hlzv-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/multimedia/00pol-harris-money-topart-hlzv/00pol-harris-money-topart-hlzv-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/cdf38e0a-26c1-57d4-9fa1-a017c24ee406",
+        "url": "https://www.nytimes.com/2024/11/17/nyregion/shen-yun-child-labor-regulator.html",
+        "id": 100000009671266,
+        "asset_id": 100000009671266,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-18 02:26:05",
+        "section": "New York",
+        "subsection": "",
+        "nytdsection": "new york",
+        "adx_keywords": "Dancing;Workplace Hazards and Violations;Overtime;Child Labor;Culture (Arts);Wages and Salaries;Minimum Wage;Regulation and Deregulation of Industry;Working Hours;Shen Yun Performing Arts;Falun Gong;Labor Department (NYS);New York City;New York State",
+        "column": null,
+        "byline": "By Michael Rothfeld and Nicole Hong",
+        "type": "Article",
+        "title": "Shen Yun’s Longstanding Labor Practices Attract Regulators’ Scrutiny",
+        "abstract": "The New York State Department of Labor has opened an inquiry into the global dance group and its treatment of the children and teenagers who stage its shows worldwide.",
+        "des_facet": [
+          "Dancing",
+          "Workplace Hazards and Violations",
+          "Overtime",
+          "Child Labor",
+          "Culture (Arts)",
+          "Wages and Salaries",
+          "Minimum Wage",
+          "Regulation and Deregulation of Industry",
+          "Working Hours"
+        ],
+        "org_facet": [
+          "Shen Yun Performing Arts",
+          "Falun Gong",
+          "Labor Department (NYS)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "New York City",
+          "New York State"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "After joining the dance company Shen Yun Performing Arts as a student musician, Eugene Liu played in 200 shows but never received more than $300 in monthly pay. New York State regulators have opened an inquiry into the group’s labor practices.",
+            "copyright": "The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/13/multimedia/00shen-yun-labor-top--01-tjzg/00shen-yun-labor-top--01-tjzg-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/13/multimedia/00shen-yun-labor-top--01-tjzg/00shen-yun-labor-top--01-tjzg-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/13/multimedia/00shen-yun-labor-top--01-tjzg/00shen-yun-labor-top--01-tjzg-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/0f0c74a5-205f-5e91-ae92-9d20c762e050",
+        "url": "https://www.nytimes.com/2024/11/16/us/politics/democrats-anti-trump-battle-plan.html",
+        "id": 100000009825911,
+        "asset_id": 100000009825911,
+        "source": "New York Times",
+        "published_date": "2024-11-16",
+        "updated": "2024-11-17 23:48:23",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Governors (US);Attorneys General;States (US);United States Politics and Government;internal-paywall-exempt-elections-app;Trump, Donald J;Democratic Party;Governors Safeguarding Democracy;Democracy Forward (Nonprofit)",
+        "column": null,
+        "byline": "By Reid J. Epstein and Lisa Lerer",
+        "type": "Article",
+        "title": "Democrats Draw Up an Entirely New Anti-Trump Battle Plan",
+        "abstract": "The party’s early preparations to oppose the next Trump administration are heavily focused on legal fights and consolidating state power, rather than marching in the streets.",
+        "des_facet": [
+          "Governors (US)",
+          "Attorneys General",
+          "States (US)",
+          "United States Politics and Government",
+          "internal-paywall-exempt-elections-app"
+        ],
+        "org_facet": [
+          "Democratic Party",
+          "Governors Safeguarding Democracy",
+          "Democracy Forward (Nonprofit)"
+        ],
+        "per_facet": [
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Keith Ellison, the attorney general of Minnesota, said his office had been preparing for Donald J. Trump’s potential return to power for more than a year.",
+            "copyright": "Maddie McGarvey for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/multimedia/POL-DEMS-RESIST1-mcwl/POL-DEMS-RESIST1-mcwl-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/multimedia/POL-DEMS-RESIST1-mcwl/POL-DEMS-RESIST1-mcwl-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/multimedia/POL-DEMS-RESIST1-mcwl/POL-DEMS-RESIST1-mcwl-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/9e2264b8-8516-5904-b062-20f4517ff747",
+        "url": "https://www.nytimes.com/2024/11/17/us/immigration-undocumented-migrants-jobs.html",
+        "id": 100000009686291,
+        "asset_id": 100000009686291,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 15:01:36",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Workplace Hazards and Violations;Illegal Immigration;Migrant Labor (Non-Agriculture);Hiring and Promotion;Labor and Jobs;Frauds and Swindling;Tax Evasion;Payroll Tax;Wages and Salaries;Fashion and Apparel;Factories and Manufacturing;Warehouses;Perez, Luis E (1969- );BaronHR LLC;Alo Yoga (Alo LLC);Bella+Canvas LLC;Nevada;United States",
+        "column": null,
+        "byline": "By Steve Eder, Danielle Ivory and Marcela Valdes",
+        "type": "Article",
+        "title": "The Hidden Truth Linking the Broken Border to Your Online Shopping Cart",
+        "abstract": "The incoming Trump administration promises an immigration crackdown. But for years, the on-demand economy has been fueled by unscrupulous staffing agencies exploiting migrant workers.",
+        "des_facet": [
+          "Workplace Hazards and Violations",
+          "Illegal Immigration",
+          "Migrant Labor (Non-Agriculture)",
+          "Hiring and Promotion",
+          "Labor and Jobs",
+          "Frauds and Swindling",
+          "Tax Evasion",
+          "Payroll Tax",
+          "Wages and Salaries",
+          "Fashion and Apparel",
+          "Factories and Manufacturing",
+          "Warehouses"
+        ],
+        "org_facet": [
+          "BaronHR LLC",
+          "Alo Yoga (Alo LLC)",
+          "Bella+Canvas LLC"
+        ],
+        "per_facet": [
+          "Perez, Luis E (1969- )"
+        ],
+        "geo_facet": [
+          "Nevada",
+          "United States"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Mark Abramson for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/10/21/multimedia/00migrant-staffing-promo-vlzq/00migrant-staffing-promo-vlzq-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/10/21/multimedia/00migrant-staffing-promo-vlzq/00migrant-staffing-promo-vlzq-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/10/21/multimedia/00migrant-staffing-promo-vlzq/00migrant-staffing-promo-vlzq-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/5eb01b1e-001e-5c3d-8663-a746fac1a7e6",
+        "url": "https://www.nytimes.com/2024/11/17/nyregion/pat-koch-thaler-dead.html",
+        "id": 100000009827703,
+        "asset_id": 100000009827703,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 23:33:52",
+        "section": "New York",
+        "subsection": "",
+        "nytdsection": "new york",
+        "adx_keywords": "Euthanasia and Assisted Suicide;Deaths (Obituaries);Death and Dying;Thaler, Pat Koch;Koch, Edward I;New York City",
+        "column": null,
+        "byline": "By Sam Roberts",
+        "type": "Article",
+        "title": "Pat Koch Thaler, Sister to a Famed Mayor, Chose to Die on a Saturday",
+        "abstract": "Ms. Thaler, a former dean at N.Y.U., used her last interview to reminisce about her brother, Ed, and to publicize the alternatives to prolonging pain and suffering.",
+        "des_facet": [
+          "Euthanasia and Assisted Suicide",
+          "Deaths (Obituaries)",
+          "Death and Dying"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Thaler, Pat Koch",
+          "Koch, Edward I"
+        ],
+        "geo_facet": [
+          "New York City"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Pat Koch Thaler, who was diagnosed with terminal cancer, chose to end her life on Saturday in New Jersey through the state’s Medical Aid in Dying law.",
+            "copyright": "via Shmuel Thaler",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/nyregion/00NY-KOCH-SISTER/00NY-KOCH-SISTER-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/nyregion/00NY-KOCH-SISTER/00NY-KOCH-SISTER-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/nyregion/00NY-KOCH-SISTER/00NY-KOCH-SISTER-mediumThreeByTwo440-v3.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/f71d6e17-8a2e-5c48-8aca-c5db99118baa",
+        "url": "https://www.nytimes.com/2024/11/17/technology/fcc-nominee-brendan-carr-trump.html",
+        "id": 100000009822534,
+        "asset_id": 100000009822534,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 20:47:06",
+        "section": "Technology",
+        "subsection": "",
+        "nytdsection": "technology",
+        "adx_keywords": "Presidential Transition (US);Presidential Election of 2024;Regulation and Deregulation of Industry;Computers and the Internet;United States Politics and Government;Television;Appointments and Executive Changes;Net Neutrality;Carr, Brendan Thomas (1979- );Trump, Donald J;Musk, Elon;Federal Communications Commission",
+        "column": null,
+        "byline": "By Cecilia Kang",
+        "type": "Article",
+        "title": "Trump Picks Brendan Carr to Lead F.C.C.",
+        "abstract": "Mr. Carr, who currently sits on the commission and is a vocal critic of Big Tech, has said the agency should regulate the tech industry.",
+        "des_facet": [
+          "Presidential Transition (US)",
+          "Presidential Election of 2024",
+          "Regulation and Deregulation of Industry",
+          "Computers and the Internet",
+          "United States Politics and Government",
+          "Television",
+          "Appointments and Executive Changes",
+          "Net Neutrality"
+        ],
+        "org_facet": [
+          "Federal Communications Commission"
+        ],
+        "per_facet": [
+          "Carr, Brendan Thomas (1979- )",
+          "Trump, Donald J",
+          "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brendan Carr has been nominated to become chairman of the Federal Communications Commission.",
+            "copyright": "Pool photo by Jonathan Newton",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/12/multimedia/00FCC-NOMINATION-HFO-jcmz/00FCC-NOMINATION-HFO-jcmz-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/12/multimedia/00FCC-NOMINATION-HFO-jcmz/00FCC-NOMINATION-HFO-jcmz-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/12/multimedia/00FCC-NOMINATION-HFO-jcmz/00FCC-NOMINATION-HFO-jcmz-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/6d36e1f3-4c04-57ed-b889-c92d4aabf5f6",
+        "url": "https://www.nytimes.com/2024/11/16/world/europe/vladimir-shklyarov-dead.html",
+        "id": 100000009829657,
+        "asset_id": 100000009829657,
+        "source": "New York Times",
+        "published_date": "2024-11-16",
+        "updated": "2024-11-17 09:40:03",
+        "section": "World",
+        "subsection": "Europe",
+        "nytdsection": "world",
+        "adx_keywords": "Deaths (Obituaries);Dancing;Shklyarov, Vladimir;Mariinsky Theater;St Petersburg (Russia);Russia",
+        "column": null,
+        "byline": "By Milana Mazaeva and Alan Yuhas",
+        "type": "Article",
+        "title": "Vladimir Shklyarov, Star Russian Ballet Dancer, Dies at 39",
+        "abstract": "The Mariinsky Theater in St. Petersburg, which announced the death, did not say how or where he died.",
+        "des_facet": [
+          "Deaths (Obituaries)",
+          "Dancing"
+        ],
+        "org_facet": [
+          "Mariinsky Theater"
+        ],
+        "per_facet": [
+          "Shklyarov, Vladimir"
+        ],
+        "geo_facet": [
+          "St Petersburg (Russia)",
+          "Russia"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Vladimir Shklyarov performing in “Etudes” at the City Center in New York in 2008.",
+            "copyright": "Hiroyuki Ito for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16russia-ballet-cljb/16russia-ballet-cljb-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16russia-ballet-cljb/16russia-ballet-cljb-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16russia-ballet-cljb/16russia-ballet-cljb-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://interactive/ec6c1050-49ca-5952-9e9b-d3d137b848ef",
+        "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-house.html",
+        "id": 100000009796247,
+        "asset_id": 100000009796247,
+        "source": "New York Times",
+        "published_date": "2024-11-05",
+        "updated": "2024-11-18 05:05:27",
+        "section": "U.S.",
+        "subsection": "2024 Elections",
+        "nytdsection": "u.s.",
+        "adx_keywords": "internal-paywall-exempt;Elections;Elections, House of Representatives;Nebraska;New Jersey;New Mexico;Nevada;New York;Ohio;Oklahoma;Oregon;Pennsylvania;South Carolina;South Dakota;Tennessee;Texas;Utah;Virginia;Vermont;Washington (State);Wisconsin;West Virginia;Wyoming;Delaware;Florida;Georgia;Hawaii;Iowa;Idaho;Illinois;Indiana;Kansas;Kentucky;Louisiana;Maryland;Maine;Michigan;Minnesota;Missouri;Mississippi;Montana;North Carolina;North Dakota;Alaska;Alabama;Arkansas;Arizona;California;Colorado;Connecticut",
+        "column": null,
+        "byline": "",
+        "type": "Interactive",
+        "title": "U.S. House Election Results",
+        "abstract": "Get live House results and maps from the most competitive congressional districts in the 2024 election.\n\n",
+        "des_facet": [
+          "internal-paywall-exempt",
+          "Elections",
+          "Elections, House of Representatives"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Nebraska",
+          "New Jersey",
+          "New Mexico",
+          "Nevada",
+          "New York",
+          "Ohio",
+          "Oklahoma",
+          "Oregon",
+          "Pennsylvania",
+          "South Carolina",
+          "South Dakota",
+          "Tennessee",
+          "Texas",
+          "Utah",
+          "Virginia",
+          "Vermont",
+          "Washington (State)",
+          "Wisconsin",
+          "West Virginia",
+          "Wyoming",
+          "Delaware",
+          "Florida",
+          "Georgia",
+          "Hawaii",
+          "Iowa",
+          "Idaho",
+          "Illinois",
+          "Indiana",
+          "Kansas",
+          "Kentucky",
+          "Louisiana",
+          "Maryland",
+          "Maine",
+          "Michigan",
+          "Minnesota",
+          "Missouri",
+          "Mississippi",
+          "Montana",
+          "North Carolina",
+          "North Dakota",
+          "Alaska",
+          "Alabama",
+          "Arkansas",
+          "Arizona",
+          "California",
+          "Colorado",
+          "Connecticut"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-POST-2024-11-05-national-map-us-h-H-4dfebd/eln-POST-2024-11-05-national-map-us-h-H-4dfebd-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/42bf04ec-015f-53d0-89e4-37ce3ca762bd",
+        "url": "https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html",
+        "id": 100000009821467,
+        "asset_id": 100000009821467,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 11:34:35",
+        "section": "Health",
+        "subsection": "",
+        "nytdsection": "health",
+        "adx_keywords": "Artificial Intelligence;Doctors;ChatGPT;Medicine and Health;Research;JAMA Network Open;OpenAI Labs",
+        "column": null,
+        "byline": "By Gina Kolata",
+        "type": "Article",
+        "title": "A.I. Chatbots Defeated Doctors at Diagnosing Illness",
+        "abstract": "A small study found ChatGPT outdid human physicians when assessing medical case histories, even when those doctors were using a chatbot.",
+        "des_facet": [
+          "Artificial Intelligence",
+          "Doctors",
+          "ChatGPT",
+          "Medicine and Health",
+          "Research"
+        ],
+        "org_facet": [
+          "JAMA Network Open",
+          "OpenAI Labs"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "In an experiment, doctors who were given ChatGPT to diagnose illness did only slightly better than doctors who did not. But the chatbot alone outperformed all the doctors.",
+            "copyright": "Michelle Gustafson for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/19/multimedia/00SCI-AI-diagnosis-lhqc/00SCI-AI-diagnosis-lhqc-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/19/multimedia/00SCI-AI-diagnosis-lhqc/00SCI-AI-diagnosis-lhqc-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/19/multimedia/00SCI-AI-diagnosis-lhqc/00SCI-AI-diagnosis-lhqc-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://interactive/aa4c6b70-f18f-5040-869c-ccf57672c2b9",
+        "url": "https://www.nytimes.com/interactive/2024/11/15/upshot/flashback.html",
+        "id": 100000009820992,
+        "asset_id": 100000009820992,
+        "source": "New York Times",
+        "published_date": "2024-11-15",
+        "updated": "2024-11-16 07:43:52",
+        "section": "The Upshot",
+        "subsection": "",
+        "nytdsection": "the upshot",
+        "adx_keywords": "Content Type: Quiz",
+        "column": null,
+        "byline": "",
+        "type": "Interactive",
+        "title": "Flashback: Your Weekly History Quiz, Nov. 16, 2024",
+        "abstract": "Can you sort 8 historical events?",
+        "des_facet": [
+          "Content Type: Quiz"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/01/upshot/flashback-promo/flashback-promo-thumbStandard-v7.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/01/upshot/flashback-promo/flashback-promo-mediumThreeByTwo210-v4.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/01/upshot/flashback-promo/flashback-promo-mediumThreeByTwo440-v4.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/b501a394-71e2-55de-96e0-9419b6166a6b",
+        "url": "https://www.nytimes.com/2024/11/17/us/politics/trump-treasury-candidates.html",
+        "id": 100000009830503,
+        "asset_id": 100000009830503,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-18 04:49:04",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "United States Politics and Government;Presidential Transition (US);Bessent, Scott;Lutnick, Howard W;Rowan, Marc J;Warsh, Kevin M;Trump, Donald J;Treasury Department",
+        "column": null,
+        "byline": "By Jonathan Swan, Maggie Haberman, Jeanna Smialek and Alan Rappeport",
+        "type": "Article",
+        "title": "After Flurry of Cabinet Picks, Trump Rethinks Candidates for Treasury Secretary",
+        "abstract": "President-elect Donald J. Trump is expected to invite the contenders for the role, including Kevin Warsh and Marc Rowan, to Mar-a-Lago this week.",
+        "des_facet": [
+          "United States Politics and Government",
+          "Presidential Transition (US)"
+        ],
+        "org_facet": [
+          "Treasury Department"
+        ],
+        "per_facet": [
+          "Bessent, Scott",
+          "Lutnick, Howard W",
+          "Rowan, Marc J",
+          "Warsh, Kevin M",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Arturo Holmes/Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17DC-TRUMP-ECON-1-qplb-promo/17DC-TRUMP-ECON-1-qplb-promo-thumbStandard-v3.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17DC-TRUMP-ECON-1-qplb-promo/17DC-TRUMP-ECON-1-qplb-promo-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17DC-TRUMP-ECON-1-qplb-promo/17DC-TRUMP-ECON-1-qplb-promo-mediumThreeByTwo440-v3.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/0d9bc8da-ce08-520c-bb65-07b90b470f45",
+        "url": "https://www.nytimes.com/2024/11/17/us/pennsylvania-election-ballots-recount.html",
+        "id": 100000009828820,
+        "asset_id": 100000009828820,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 23:50:46",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Presidential Election of 2024;Supreme Courts (State);Suits and Litigation (Civil);Voting Rights, Registration and Requirements;Schmidt, Al;Democratic Party;Republican Party;Bucks County (Pa);Lancaster (Pa);Montgomery County (Pa);Pennsylvania;Philadelphia (Pa)",
+        "column": null,
+        "byline": "By Nick Corasaniti",
+        "type": "Article",
+        "title": "In Pennsylvania, the Election Litigation Continues, With a Twist",
+        "abstract": "As a Senate recount plays out, at least four counties are ignoring an order from the State Supreme Court that undated or misdated mail ballots cannot be counted.",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "Supreme Courts (State)",
+          "Suits and Litigation (Civil)",
+          "Voting Rights, Registration and Requirements"
+        ],
+        "org_facet": [
+          "Democratic Party",
+          "Republican Party"
+        ],
+        "per_facet": [
+          "Schmidt, Al"
+        ],
+        "geo_facet": [
+          "Bucks County (Pa)",
+          "Lancaster (Pa)",
+          "Montgomery County (Pa)",
+          "Pennsylvania",
+          "Philadelphia (Pa)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Election workers processing mail-in ballots in Philadelphia.",
+            "copyright": "Matt Slocum/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16nat-pa-ballot-vwkq/16nat-pa-ballot-vwkq-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16nat-pa-ballot-vwkq/16nat-pa-ballot-vwkq-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16nat-pa-ballot-vwkq/16nat-pa-ballot-vwkq-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/0426f18c-fe99-516d-84e5-e563d93a489e",
+        "url": "https://www.nytimes.com/2024/11/17/opinion/america-trump-tolerance.html",
+        "id": 100000009823019,
+        "asset_id": 100000009823019,
+        "source": "New York Times",
+        "published_date": "2024-11-17",
+        "updated": "2024-11-17 15:50:23",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Presidential Power (US);Discrimination;Rumors and Misinformation;Democracy (Theory and Philosophy);Trump, Donald J",
+        "column": null,
+        "byline": "By Roxane Gay",
+        "type": "Article",
+        "title": "Enough",
+        "abstract": "To suggest we should yield even a little to Trump’s odious politics is unacceptable. Even if we did, it would never be enough.",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "United States Politics and Government",
+          "Presidential Power (US)",
+          "Discrimination",
+          "Rumors and Misinformation",
+          "Democracy (Theory and Philosophy)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Damon Winter/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17gay-ftmp/17gay-ftmp-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17gay-ftmp/17gay-ftmp-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/multimedia/17gay-ftmp/17gay-ftmp-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/1fe7e52c-eb2c-5474-8ad8-b1c3a729cab9",
+        "url": "https://www.nytimes.com/2024/11/16/opinion/donald-trump-women-girls.html",
+        "id": 100000009822016,
+        "asset_id": 100000009822016,
+        "source": "New York Times",
+        "published_date": "2024-11-16",
+        "updated": "2024-11-17 11:08:49",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Women's Rights;Women and Girls;Men and Boys;Presidential Election of 2024;United States Politics and Government;Trump, Donald J",
+        "column": null,
+        "byline": "By Naomi Beinart",
+        "type": "Article",
+        "title": "I’m 16. On Nov. 6 the Girls Cried, and the Boys Played Minecraft.",
+        "abstract": "On the day after the election, it seemed boys and girls woke to a new reality.",
+        "des_facet": [
+          "Women's Rights",
+          "Women and Girls",
+          "Men and Boys",
+          "Presidential Election of 2024",
+          "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Xinyue Chen",
+            "approved_for_syndication": 0,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/opinion/15nbeinart-image/15nbeinart-image-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/opinion/15nbeinart-image/15nbeinart-image-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/15/opinion/15nbeinart-image/15nbeinart-image-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/1e64b831-be2b-530b-b359-3716efa13115",
+        "url": "https://www.nytimes.com/2024/11/16/us/politics/robert-kennedy-diet-eating-habits-trump.html",
+        "id": 100000009828931,
+        "asset_id": 100000009828931,
+        "source": "New York Times",
+        "published_date": "2024-11-16",
+        "updated": "2024-11-16 17:04:35",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Presidential Election of 2024;Appointments and Executive Changes;Diet and Nutrition;Presidential Transition (US);Kennedy, Robert F Jr;Trump, Donald J;Health and Human Services Department",
+        "column": null,
+        "byline": "By Rebecca Davis O’Brien",
+        "type": "Article",
+        "title": "Omnivore, Intermittent Faster, Reformed Twinkie Lover: the R.F.K. Jr. Diet",
+        "abstract": "Mr. Kennedy, Donald Trump’s pick to lead the Department of Health and Human Services, could wield considerable influence over the nation’s food supply. Here’s what we know about his own habits.",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "Appointments and Executive Changes",
+          "Diet and Nutrition",
+          "Presidential Transition (US)"
+        ],
+        "org_facet": [
+          "Health and Human Services Department"
+        ],
+        "per_facet": [
+          "Kennedy, Robert F Jr",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Robert F. Kennedy Jr. at his Los Angeles home in June. Mr. Kennedy’s food consumption habits came under scrutiny during his independent run for president.",
+            "copyright": "Ruth Fremson/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16pol-rfk-diet-topart-twjf/16pol-rfk-diet-topart-twjf-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16pol-rfk-diet-topart-twjf/16pol-rfk-diet-topart-twjf-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/16/multimedia/16pol-rfk-diet-topart-twjf/16pol-rfk-diet-topart-twjf-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/0b2df555-9e67-5ba5-ba73-394306fe890e",
+        "url": "https://www.nytimes.com/2024/11/12/opinion/donald-trump-election.html",
+        "id": 100000009817513,
+        "asset_id": 100000009817513,
+        "source": "New York Times",
+        "published_date": "2024-11-12",
+        "updated": "2024-11-17 16:33:15",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Presidential Election of 2024;Presidential Elections (US);Anxiety and Stress;Psychology and Psychologists;Depression (Mental);Trump, Donald J",
+        "column": null,
+        "byline": "By Adam Grant",
+        "type": "Article",
+        "title": "If You’re Sure How the Next Four Years Will Play Out, I Promise: You’re Wrong",
+        "abstract": "You can’t see far enough ahead to trust the image in your mind’s eye.",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "Presidential Elections (US)",
+          "Anxiety and Stress",
+          "Psychology and Psychologists",
+          "Depression (Mental)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Chris Mollon",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/opinion/12grant/12grant-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/opinion/12grant/12grant-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/17/opinion/12grant/12grant-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/b232542f-0dd8-5521-b091-cf76d9b2887f",
+        "url": "https://www.nytimes.com/2024/11/12/travel/skiplagged-flights-hacks.html",
+        "id": 100000009795051,
+        "asset_id": 100000009795051,
+        "source": "New York Times",
+        "published_date": "2024-11-12",
+        "updated": "2024-11-13 12:56:52",
+        "section": "Travel",
+        "subsection": "",
+        "nytdsection": "travel",
+        "adx_keywords": "Airlines and Airplanes;Budget Travel;Prices (Fares, Fees and Rates);Suits and Litigation (Civil)",
+        "column": null,
+        "byline": "By Christine Chung",
+        "type": "Article",
+        "title": "Airlines Hate ‘Skiplagging.’ Meet the Man Who Helps Travelers Pull It Off.",
+        "abstract": "Aktarer Zaman is the founder of a controversial website that unearths airfare hacks, most notably skipping the last leg of a flight for a cheaper price.",
+        "des_facet": [
+          "Airlines and Airplanes",
+          "Budget Travel",
+          "Prices (Fares, Fees and Rates)",
+          "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Skiplagging offers significant value to cost-conscious travelers, Aktarer Zaman says, and he’s invigorated to empower them with his website. ",
+            "copyright": "Aktarer Zaman",
+            "approved_for_syndication": 0,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2024/11/01/travel/oakImage-1730482186749/oakImage-1730482186749-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/01/travel/oakImage-1730482186749/oakImage-1730482186749-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2024/11/01/travel/oakImage-1730482186749/oakImage-1730482186749-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      }
+    ]
+  }
