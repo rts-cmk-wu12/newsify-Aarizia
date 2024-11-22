@@ -1,5 +1,6 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
+const CopyPlugin = require("copy-webpack-plugin");
 
 module.exports = {
     entry: {
@@ -41,6 +42,11 @@ module.exports = {
             filename: 'settings.html',
             chunks: ['settings']
         }),
+        new CopyPlugin({
+            patterns: [
+              { from: "public", to: "docs" }
+            ],
+          }),
 
         //new MiniCssExtractPlugin()
     ],
