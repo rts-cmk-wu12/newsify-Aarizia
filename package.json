@@ -14,9 +14,12 @@
   "author": "Emma",
   "license": "ISC",
   "devDependencies": {
+    "copy-webpack-plugin": "^6.3.1",
     "css-loader": "^7.1.2",
     "html-webpack-plugin": "^5.6.3",
+    "i": "^0.3.7",
     "jest": "^29.7.0",
+    "npm": "^10.9.1",
     "postcss": "^8.4.49",
     "postcss-font-magician": "^4.0.0",
     "postcss-loader": "^8.1.1",
